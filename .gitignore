@@ -1,0 +1,10 @@
+node_modules/
+release/
+vendor/
+emu-test-logs/
+test-apks/
+video/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
