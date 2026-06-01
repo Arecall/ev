@@ -1,6 +1,8 @@
 node_modules/
-release/
-vendor/
+release/win-unpacked/
+vendor/android-sdk/
+vendor/java/
+vendor/scrcpy/
 emu-test-logs/
 test-apks/
 video/
