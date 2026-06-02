@@ -1,0 +1,12 @@
+node_modules/
+release/win-unpacked/
+vendor/android-sdk/
+vendor/java/
+vendor/scrcpy/
+emu-test-logs/
+test-apks/
+video/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
